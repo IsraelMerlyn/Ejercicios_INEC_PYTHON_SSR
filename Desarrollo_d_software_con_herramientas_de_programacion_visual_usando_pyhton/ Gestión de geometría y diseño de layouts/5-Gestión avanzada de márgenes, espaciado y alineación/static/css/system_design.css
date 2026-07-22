@@ -1,0 +1,17 @@
+/* ANTIPATRONES DETECTADOS */
+.kpi-card {
+    width: 280px;            /* Tamaño fijo rígido */
+    margin: 15px;            /* Provoca alineaciones inconsistentes en rejillas */
+    padding: 10px;           /* Elementos demasiado pegados (asfixia visual) */
+    display: inline-block;   /* Técnica obsoleta de alineación pre-flexbox */
+    box-sizing: content-box; /* El enemigo de la responsividad */
+}
+
+.data-table th, .data-table td {
+    padding: 5px;            /* Falta de aire visual */
+    text-align: left;        /* Mezcla alineación de números y textos de forma genérica */
+}
+
+.main-content {
+    margin-top: 20px;        /* Colapso de margen contra el Header */
+}

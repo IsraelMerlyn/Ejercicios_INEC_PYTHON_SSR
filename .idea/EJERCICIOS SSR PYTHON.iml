@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Desarrollo_d_software_con_herramientas_de_programacion_visual_usando_pyhton/7_Integración_de_datos/1_Introduccióna_la_integración_de_datos/crypto_dashboard/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Desarrollo_d_software_con_herramientas_de_programacion_visual_usando_pyhton/7_Integración_de_datos/1_Introduccióna_la_integración_de_datos/pokemon_dashboard/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.14 (EJERCICIOS SSR PYTHON)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,7 @@
+[
+  {"texto": "Camion 12: fuga de aceite en el motor", "resuelta": false},
+  {"texto": "Camion 07: llanta delantera desgastada", "resuelta": true},
+  {"texto": "Camion 21: sensor de temperatura con falla", "resuelta": false},
+  {"texto": "Camion 03: revision de frenos programada", "resuelta": true},
+  {"texto": "Camion 15: luces traseras no encienden", "resuelta": false}
+]

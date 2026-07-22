@@ -1,0 +1,7 @@
+# LogiTrack - Bitacora de Incidencias bajo MVC (Proyecto Integrador M1.6)
+# Solo se usa la libreria estandar de Python (tkinter + json).
+# No hay dependencias externas que instalar con pip.
+#
+# Requisito: Python 3.9+ con Tkinter disponible
+#   - Windows/Mac: Tkinter viene incluido con el instalador oficial de python.org
+#   - Linux (Debian/Ubuntu): sudo apt install python3-tk
